@@ -1,0 +1,36 @@
+body {
+	font-family: 'Releway', sans-serif;
+	color: rgba(0 ,0 ,0 ,.5);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	background: linear-gradient(to right , red , yellow);
+}
+
+h1 {
+	font:600 3.5em 'Releway' , sans-serif;
+	width: 100%;
+}
+
+h2 {
+	font-family: none;
+}
+
+h3 {
+	font-size: .8em;
+	letter-spacing: 0;
+	text-transform: none;
+	font-family: sans-serif;
+}
+
+.btn {
+	margin-top: 50px;
+	padding: 10px;
+	border: 2px solid white;
+	font-size: 1em;
+	cursor: pointer;
+	border-radius: 12px;
+	background: white;
+	transition: 0.5s;
+}
